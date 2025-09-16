@@ -5,6 +5,7 @@
 
 #### 编辑模式展示
 ![编辑模式](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECGNhoyXisfvZ5iut6z_LfbW4E6sG40gAC-T0AAvOKSVYzUaYpM-wJpTYE.png)
+![001.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECGNhoyXisfvZ5iut6z_LfbW4E6sG40gAC-T0AAvOKSVYzUaYpM-wJpTYE.png)
 
 
 #### 预览模式展示

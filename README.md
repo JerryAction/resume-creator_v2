@@ -5,7 +5,8 @@
 
 #### 编辑模式展示
 ![编辑模式](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECGNhoyXisfvZ5iut6z_LfbW4E6sG40gAC-T0AAvOKSVYzUaYpM-wJpTYE.png)
-![001.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECGNhoyXisfvZ5iut6z_LfbW4E6sG40gAC-T0AAvOKSVYzUaYpM-wJpTYE.png)
+<img width="467" height="922" alt="image" src="https://github.com/user-attachments/assets/d9456004-55de-44b2-aecd-727db550a423" />
+
 
 
 #### 预览模式展示

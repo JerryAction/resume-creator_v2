@@ -4,9 +4,9 @@
 打开即可使用的个人简历生成器，单Html文件，支持编辑、预览和打印。
 
 #### 编辑模式展示
-![输入图片说明](%E7%BC%96%E8%BE%91%E6%A8%A1%E5%BC%8F001.png)
+![编辑模式](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECGNhoyXisfvZ5iut6z_LfbW4E6sG40gAC-T0AAvOKSVYzUaYpM-wJpTYE.png)
 
 
 #### 预览模式展示
-![输入图片说明](%E9%A2%84%E8%A7%88%E6%A8%A1%E5%BC%8F002.png)
+![预览模式](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAECGN5oyXls3JBPNBCg900BfYhqDapo5gAC_z0AAvOKSVbTC0SVp9ETDzYE.png)
 
